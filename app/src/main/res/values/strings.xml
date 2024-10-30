@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">DevTips</string>
+
+    <string name="tip_icon_1">🧠</string>
+    <string name="tip_title_1">Domina los Fundamentos</string>
+    <string name="tip_description_1">Los principios básicos de programación son la base para entender cualquier tecnología. Domínalos bien.</string>
+
+    <string name="tip_icon_2">💻</string>
+    <string name="tip_title_2">Usa Control de Versiones</string>
+    <string name="tip_description_2">Git y otros sistemas de control de versiones son esenciales para rastrear cambios y trabajar en equipo.</string>
+
+    <string name="tip_icon_3">🕒</string>
+    <string name="tip_title_3">Organiza tu Tiempo</string>
+    <string name="tip_description_3">Usa técnicas como Pomodoro para mejorar tu productividad y evitar el agotamiento.</string>
+
+    <string name="tip_icon_4">📄</string>
+    <string name="tip_title_4">Lee la Documentación</string>
+    <string name="tip_description_4">La documentación es la fuente más confiable de información. Tómate el tiempo para leerla.</string>
+
+    <string name="tip_icon_5">🔍</string>
+    <string name="tip_title_5">No Reinventes la Rueda</string>
+    <string name="tip_description_5">Investiga si alguien ya ha resuelto tu problema. Esto te ahorrará tiempo y esfuerzo.</string>
+
+    <string name="tip_icon_6">✏️</string>
+    <string name="tip_title_6">Escribe Código Limpio</string>
+    <string name="tip_description_6">Código claro y fácil de leer es clave para el mantenimiento y colaboración.</string>
+
+    <string name="tip_icon_7">🛠️</string>
+    <string name="tip_title_7">Automatiza Tareas Repetitivas</string>
+    <string name="tip_description_7">Usa scripts o herramientas para automatizar tareas y ahorrar tiempo.</string>
+
+    <string name="tip_icon_8">💡</string>
+    <string name="tip_title_8">Experimenta con Nuevas Tecnologías</string>
+    <string name="tip_description_8">Mantente al día con nuevas herramientas y lenguajes, pero sin perder tu foco.</string>
+
+    <string name="tip_icon_9">🧩</string>
+    <string name="tip_title_9">Aprende Algoritmos y Estructuras de Datos</string>
+    <string name="tip_description_9">Estos son la base para resolver problemas complejos de manera eficiente.</string>
+
+    <string name="tip_icon_10">🔄</string>
+    <string name="tip_title_10">Practica el Refactoring</string>
+    <string name="tip_description_10">Mejorar código antiguo te ayuda a mantener la calidad y eficiencia de tu proyecto.</string>
+
+    <string name="tip_icon_11">👀</string>
+    <string name="tip_title_11">Escribe Tests</string>
+    <string name="tip_description_11">Pruebas unitarias y de integración aseguran que tu código funciona como debería.</string>
+
+    <string name="tip_icon_12">👩‍💻</string>
+    <string name="tip_title_12">Pide y Da Feedback</string>
+    <string name="tip_description_12">Las revisiones de código te ayudan a mejorar y aprender nuevas prácticas.</string>
+
+    <string name="tip_icon_13">🌐</string>
+    <string name="tip_title_13">Participa en la Comunidad</string>
+    <string name="tip_description_13">Conectar con otros desarrolladores es excelente para compartir conocimientos y mejorar.</string>
+
+    <string name="tip_icon_14">🔧</string>
+    <string name="tip_title_14">Usa IDEs o Editores de Texto Eficientes</string>
+    <string name="tip_description_14">Herramientas como VS Code y IntelliJ pueden hacer tu trabajo más rápido y eficiente.</string>
+
+    <string name="tip_icon_15">🔒</string>
+    <string name="tip_title_15">Preocúpate por la Seguridad</string>
+    <string name="tip_description_15">Asegúrate de que tu código es seguro contra vulnerabilidades comunes.</string>
+
+    <string name="tip_icon_16">📚</string>
+    <string name="tip_title_16">Aprende Patrón de Diseño</string>
+    <string name="tip_description_16">Estos patrones te ayudan a resolver problemas de diseño recurrentes de manera eficiente.</string>
+
+    <string name="tip_icon_17">🔄</string>
+    <string name="tip_title_17">Usa Métodos de Desarrollo Ágil</string>
+    <string name="tip_description_17">Metodologías como Scrum o Kanban pueden ayudarte a trabajar de manera más organizada.</string>
+
+    <string name="tip_icon_18">🎯</string>
+    <string name="tip_title_18">Mantén Metas Claras</string>
+    <string name="tip_description_18">Trabaja con un propósito y objetivos claros para no perder el foco en el proyecto.</string>
+
+    <string name="tip_icon_19">🌱</string>
+    <string name="tip_title_19">Aprende Constantemente</string>
+    <string name="tip_description_19">La tecnología cambia rápido; invierte en aprendizaje constante para mantenerte actualizado.</string>
+
+    <string name="tip_icon_20">⚙️</string>
+    <string name="tip_title_20">Optimiza tu Código</string>
+    <string name="tip_description_20">Código más rápido y eficiente ahorra recursos y mejora la experiencia de usuario.</string>
+
+    <string name="tip_icon_21">📈</string>
+    <string name="tip_title_21">Practica Debugging Efectivo</string>
+    <string name="tip_description_21">Aprender a depurar eficientemente es crucial para resolver problemas rápidamente.</string>
+
+    <string name="tip_icon_22">💼</string>
+    <string name="tip_title_22">Trabaja en Proyectos Personales</string>
+    <string name="tip_description_22">Los proyectos personales son excelentes para practicar y mostrar tus habilidades.</string>
+
+    <string name="tip_icon_23">🧩</string>
+    <string name="tip_title_23">Entiende el Problema antes de Codificar</string>
+    <string name="tip_description_23">Tómate el tiempo para comprender el problema antes de intentar resolverlo.</string>
+
+    <string name="tip_icon_24">🗂️</string>
+    <string name="tip_title_24">Organiza tus Proyectos</string>
+    <string name="tip_description_24">Estructura y organización claras facilitan el mantenimiento y escalabilidad.</string>
+
+    <string name="tip_icon_25">🌍</string>
+    <string name="tip_title_25">Colabora en Proyectos Open Source</string>
+    <string name="tip_description_25">Contribuir a proyectos de código abierto te ayuda a aprender y contribuir a la comunidad.</string>
+
+    <string name="tip_icon_26">🚀</string>
+    <string name="tip_title_26">Prueba Nuevos Retos</string>
+    <string name="tip_description_26">Participa en hackathons o concursos para mejorar tus habilidades de resolución de problemas.</string>
+
+    <string name="tip_icon_27">🧑‍🏫</string>
+    <string name="tip_title_27">Enseña a Otros</string>
+    <string name="tip_description_27">Explicar algo es una excelente forma de aprender y reforzar tu conocimiento.</string>
+
+    <string name="tip_icon_28">📉</string>
+    <string name="tip_title_28">No Te Rindas ante los Fracasos</string>
+    <string name="tip_description_28">Los errores son parte del aprendizaje. Usa cada error como una oportunidad de crecimiento.</string>
+
+    <string name="tip_icon_29">📝</string>
+    <string name="tip_title_29">Documenta tu Código</string>
+    <string name="tip_description_29">La documentación facilita el entendimiento y mantenimiento del código.</string>
+
+    <string name="tip_icon_30">🎯</string>
+    <string name="tip_title_30">Establece Buenas Prácticas de Codificación</string>
+    <string name="tip_description_30">Practicas como DRY (Don’t Repeat Yourself) y KISS (Keep It Simple, Stupid) te ayudan a escribir mejor código.</string>
+</resources>
