@@ -3,10 +3,6 @@
 ## This Android app showcases 30 essential tips for developers
 
 # Screens
-<details>
-  <summary>## Splash / Icon</summary>
-  ![image](https://github.com/user-attachments/assets/903038a4-3388-40e2-bb98-b36fea3a2775)
-</details>
 ## Splash / Icon
 ![image](https://github.com/user-attachments/assets/903038a4-3388-40e2-bb98-b36fea3a2775)
 
